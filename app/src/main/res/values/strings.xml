@@ -1,0 +1,8 @@
+<resources>
+    <string name="name_app">Two Activities and an Intent</string>
+    <string name="title_activity1">Introduce a Message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity2">Second Activity</string>
+    <string name="message_send">Message 2da Activity</string>
+    <string name="message_received">Message 1ra Activity</string>
+</resources>
